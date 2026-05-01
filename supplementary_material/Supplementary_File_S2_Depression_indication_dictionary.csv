@@ -1,0 +1,18 @@
+domain,indication,include_primary,notes
+depression,Depression,1,core depression indication
+depression,Major depression,1,core MDD-related indication
+depression,Major depressive disorder,1,core MDD indication
+depression,Depressive disorder,1,core depressive disorder indication
+depression,Depressed mood,1,depression-related symptom/indication
+depression,Recurrent depression,1,recurrent depression
+depression,Recurrent depressive disorder,1,recurrent depressive disorder
+depression,Persistent depressive disorder,1,persistent depressive disorder
+depression,Dysthymia,1,dysthymic disorder
+depression,Dysthymic disorder,1,dysthymic disorder
+depression,Treatment resistant depression,1,treatment-resistant depression
+depression,Seasonal affective disorder,1,depressive disorder
+depression,Postpartum depression,1,depression-related indication
+depression,Atypical depression,1,depression-related indication
+depression,Mixed anxiety and depressive disorder,1,contains depressive disorder; sensitivity concern
+sensitivity,Bipolar depression,0,exclude from primary; bipolar-depression sensitivity only
+sensitivity,Mood disorder,0,too broad for primary indication restriction

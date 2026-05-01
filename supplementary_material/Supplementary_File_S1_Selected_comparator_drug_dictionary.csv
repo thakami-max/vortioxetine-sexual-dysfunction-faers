@@ -1,0 +1,11 @@
+drug_class,generic,synonyms,include_primary,notes,analysis_role
+Serotonin modulator,vortioxetine,vortioxetine;trintellix;brintellix,1,serotonin modulator antidepressant,index
+SSRI,escitalopram,escitalopram;lexapro;cipralex,1,SSRI,primary_comparator
+SSRI,paroxetine,paroxetine;paxil;seroxat;pexeva;brisdelle,1,SSRI; brisdelle is low-dose paroxetine,key_comparator
+SSRI,sertraline,sertraline;zoloft;lustral,1,SSRI,key_comparator
+SSRI,citalopram,citalopram;celexa;cipramil,1,SSRI,secondary
+SSRI,fluoxetine,fluoxetine;prozac;sarafem;selfemra,1,SSRI,secondary
+SNRI,duloxetine,duloxetine;cymbalta;irenka,1,SNRI,key_comparator
+SNRI,venlafaxine,venlafaxine;effexor;effexor xr,1,SNRI,secondary
+NDRI,bupropion,bupropion;wellbutrin;zyban;aplenzin;forfivo;auvelity,1,NDRI; often used as lower-sexual-dysfunction comparator; auvelity is combination dextromethorphan/bupropion,lower_burden_reference
+NaSSA,mirtazapine,mirtazapine;remeron,1,NaSSA/tetracyclic antidepressant,lower_burden_reference

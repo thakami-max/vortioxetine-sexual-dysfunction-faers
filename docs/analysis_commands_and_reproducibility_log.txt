@@ -1,0 +1,61 @@
+Supplementary File S8. Analysis commands and reproducibility log
+
+Data source and analytic cut-off
+- Public FDA FAERS/AEMS quarterly ASCII files: 2014 Q1 through 2025 Q4.
+- Download/extraction date recorded in the manuscript: 31 March 2026.
+- Prespecified analytic cut-off: 2025 Q4.
+- Number of quarterly ZIP files: 48.
+
+Primary V2 analysis summary
+- Index drug: vortioxetine.
+- Comparators: escitalopram, paroxetine, sertraline, duloxetine, venlafaxine, bupropion, mirtazapine.
+- Exposure role: primary suspect (PS).
+- Indication mode: depression-related indication restriction.
+- Monotherapy-like restriction: exclude reports with >1 selected antidepressant coded PS or SS.
+- Outcome: narrow sexual-dysfunction preferred-term dictionary.
+- Deduplicated FAERS/AEMS cases: 16,002,134.
+- Selected-antidepressant exposure rows before restrictions: 488,523.
+- Selected-antidepressant exposure cases before restrictions: 339,095.
+- Final exposure rows/cases after indication, role, and monotherapy-like restrictions: 66,263.
+- Sexual-dysfunction event rows matched in the database-wide outcome scan: 52,711.
+- Unique sexual-dysfunction cases in the database-wide outcome scan: 40,676.
+
+Primary result reproduced in Figure 2 and Table 2
+- Vortioxetine vs escitalopram: ROR 0.50, 95% CI 0.41-0.60.
+
+Commands
+Focused V2 FAERS/AEMS active-comparator analysis commands
+
+Primary analysis:
+caffeinate -dimsu python3 faers_v2_active_comparator_pipeline.py \
+  --raw-dir data_raw \
+  --out-dir outputs_v2_primary_PS_depression_mono_narrow \
+  --drug-config config/antidepressants_selected_comparators.csv \
+  --event-config config/sexual_dysfunction_terms_narrow_primary.csv \
+  --indication-config config/indications_depression.csv \
+  --index-drug vortioxetine \
+  --comparators escitalopram paroxetine sertraline duloxetine venlafaxine bupropion mirtazapine \
+  --role-codes PS \
+  --exclude-other-selected-roles PS SS \
+  --indication-mode depression \
+  --monotherapy-like \
+  --run-sex-strata \
+  --run-source-strata \
+  --min-cases 3
+
+Sensitivity analyses:
+1) PS+SS, depression-restricted, monotherapy-like, narrow endpoint.
+2) PS only, depression-restricted, no monotherapy-like restriction, narrow endpoint.
+3) PS only, all indications, monotherapy-like, narrow endpoint.
+4) PS only, depression-restricted, monotherapy-like, broad endpoint.
+
+Exact data-download date recorded: 31 March 2026. Prespecified analytic cut-off: 2025 Q4.
+
+
+Additional scripts included in this folder
+- faers_v2_active_comparator_pipeline.py
+- faers_v2_print_key_results.py
+- faers_v2_confounder_sensitivity.py
+- faers_v2_print_confounder_results.py
+- README_V2.md
+- example_commands_V2.md

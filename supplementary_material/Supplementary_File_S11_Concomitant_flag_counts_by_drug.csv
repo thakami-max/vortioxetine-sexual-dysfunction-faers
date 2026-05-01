@@ -1,0 +1,9 @@
+generic,n_exposed,sd_cases,antipsychotic_cases,benzodiazepine_cases,five_ari_alpha_blocker_cases,hormonal_therapy_cases,mood_stabilizer_cases,opioid_cases,pde5_or_ed_treatment_cases,pain_condition_cases,smoking_cessation_cases,urologic_endocrine_condition_cases,any_core_confounder_cases
+bupropion,6137,64,361,533,44,202,306,185,22,33,65,145,828
+duloxetine,9697,171,626,1107,74,240,381,743,20,320,8,236,1687
+escitalopram,5118,289,490,697,118,170,206,237,15,78,4,222,1115
+mirtazapine,3542,36,446,607,62,67,137,335,6,33,5,117,908
+paroxetine,3670,119,445,670,57,75,170,215,2,45,21,132,792
+sertraline,11857,530,1128,1200,180,445,346,610,16,73,20,461,2494
+venlafaxine,8871,240,996,1146,135,238,468,547,14,88,13,467,2094
+vortioxetine,7159,207,531,821,47,150,345,236,10,43,1,215,1046

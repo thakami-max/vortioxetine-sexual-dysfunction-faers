@@ -1,0 +1,10 @@
+index_drug,comparator,a_index_with_SD,b_index_without_SD,n_index,c_comparator_with_SD,d_comparator_without_SD,n_comparator,ROR,ROR_LCL95,ROR_UCL95
+vortioxetine,bupropion,207,6952,7159,64,6073,6137,2.825426,2.130221,3.747513
+vortioxetine,duloxetine,207,6952,7159,171,9526,9697,1.658728,1.351427,2.035905
+vortioxetine,escitalopram,207,6952,7159,289,4829,5118,0.497531,0.414657,0.596968
+vortioxetine,mirtazapine,207,6952,7159,36,3506,3542,2.899813,2.030721,4.140852
+vortioxetine,paroxetine,207,6952,7159,119,3551,3670,0.888514,0.706608,1.11725
+vortioxetine,sertraline,207,6952,7159,530,11327,11857,0.636355,0.540427,0.749311
+vortioxetine,venlafaxine,207,6952,7159,240,8631,8871,1.070805,0.88677,1.293035
+vortioxetine,pooled_snri,207,6952,7159,411,18157,18568,1.315415,1.110523,1.55811
+vortioxetine,pooled_ssri,207,6952,7159,1483,29374,30857,0.58977,0.508759,0.68368

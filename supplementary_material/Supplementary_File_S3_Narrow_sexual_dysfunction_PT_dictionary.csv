@@ -1,0 +1,44 @@
+domain,pt,include_primary,notes
+general,Sexual dysfunction,1,core broad PT/term
+general,Sexual disorder,0,broad term; review sensitivity
+general,Post-SSRI sexual dysfunction,0,may appear as LLT/PT depending on coding/version; included for PSSD-focused searches
+desire,Libido decreased,1,core desire disorder
+desire,Loss of libido,1,legacy/common mapping term; exact PT availability may vary
+desire,Reduced libido,1,variant; included for robustness
+desire,Libido disorder,1,desire disorder
+desire,Hypoactive sexual desire disorder,1,desire disorder
+desire,Sexual desire disorder,1,desire disorder
+arousal,Sexual arousal disorder,1,arousal disorder
+arousal,Disturbance in sexual arousal,1,arousal disorder
+arousal,Female sexual arousal disorder,1,arousal disorder
+erectile,Erectile dysfunction,1,core male sexual dysfunction
+erectile,Impotence,1,legacy/common mapping term; exact PT availability may vary
+ejaculation,Ejaculation disorder,1,ejaculatory dysfunction
+ejaculation,Ejaculation delayed,1,ejaculatory dysfunction
+ejaculation,Ejaculation failure,1,ejaculatory dysfunction
+ejaculation,Ejaculatory dysfunction,1,variant; included for robustness
+ejaculation,Failure to ejaculate,1,variant; included for robustness
+ejaculation,Anejaculation,1,variant; included for robustness
+ejaculation,Retrograde ejaculation,0,ejaculatory dysfunction
+ejaculation,Premature ejaculation,0,include as sensitivity only; not typical antidepressant-decreased-function phenotype
+orgasm,Anorgasmia,1,core orgasm disorder
+orgasm,Orgasm abnormal,1,orgasm disorder
+orgasm,Orgasmic dysfunction,1,orgasm disorder
+orgasm,Orgasm delayed,1,orgasm disorder
+orgasm,Delayed orgasm,1,variant; included for robustness
+orgasm,Female orgasmic disorder,1,orgasm disorder
+orgasm,Male orgasmic disorder,1,orgasm disorder
+sensation,Genital hypoaesthesia,1,genital sensory dysfunction; British spelling often used in MedDRA
+sensation,Genital hypoesthesia,1,US spelling variant
+sensation,Genital anaesthesia,1,genital sensory dysfunction
+sensation,Genital anesthesia,1,US spelling variant
+sensation,Penile hypoaesthesia,1,genital sensory dysfunction
+sensation,Penile hypoesthesia,1,US spelling variant
+sensation,Vulvovaginal hypoaesthesia,1,genital sensory dysfunction
+sensation,Nipple hypoaesthesia,0,include for PSSD sensitivity only
+lubrication,Vaginal dryness,1,arousal/lubrication-related dysfunction
+lubrication,Vulvovaginal dryness,1,arousal/lubrication-related dysfunction
+pain,Dyspareunia,0,include as sensitivity; sexual pain may have many causes
+pain,Sexual pain disorder,0,include as sensitivity; exact PT availability may vary
+pain,Painful erection,0,sexual dysfunction phenotype
+pain,Priapism,0,important sexual adverse event but distinct from decreased-function phenotype; sensitivity only

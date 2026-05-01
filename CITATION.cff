@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and the archived repository DOI."
+title: "Sexual dysfunction reports associated with vortioxetine and selected antidepressant comparators: FAERS/AEMS active-comparator analysis"
+authors:
+  - family-names: "Hakami"
+    given-names: "Tahir"
+# Add co-authors here before public release, if applicable.
+version: "1.0.0"
+date-released: "2026-03-31"
+license: "MIT"
+url: "https://github.com/INSERT_USERNAME/vortioxetine-sexual-dysfunction-faers"
+repository-code: "https://github.com/INSERT_USERNAME/vortioxetine-sexual-dysfunction-faers"
+abstract: "Scripts, configuration dictionaries, analysis commands, reproducibility materials, and summary outputs for a FAERS/AEMS active-comparator case/non-case disproportionality analysis of sexual dysfunction reports associated with vortioxetine and selected antidepressant comparators."
+keywords:
+  - FAERS
+  - AEMS
+  - vortioxetine
+  - sexual dysfunction
+  - pharmacovigilance
+  - disproportionality analysis
+  - active comparator

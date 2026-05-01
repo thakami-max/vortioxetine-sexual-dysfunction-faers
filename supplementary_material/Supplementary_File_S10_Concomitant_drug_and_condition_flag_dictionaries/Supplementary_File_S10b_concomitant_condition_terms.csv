@@ -1,0 +1,31 @@
+group,term,source,note
+urologic_endocrine_condition,diabetes mellitus,INDI,endocrine/metabolic disease associated with sexual dysfunction
+urologic_endocrine_condition,type 2 diabetes mellitus,INDI,endocrine/metabolic disease associated with sexual dysfunction
+urologic_endocrine_condition,type 1 diabetes mellitus,INDI,endocrine/metabolic disease associated with sexual dysfunction
+urologic_endocrine_condition,diabetic neuropathy,INDI,endocrine/metabolic disease associated with sexual dysfunction
+urologic_endocrine_condition,hypogonadism,INDI,endocrine disease associated with sexual dysfunction
+urologic_endocrine_condition,testosterone deficiency,INDI,endocrine disease associated with sexual dysfunction
+urologic_endocrine_condition,androgen deficiency,INDI,endocrine disease associated with sexual dysfunction
+urologic_endocrine_condition,hyperprolactinaemia,INDI,endocrine disease associated with sexual dysfunction
+urologic_endocrine_condition,hyperprolactinemia,INDI,endocrine disease associated with sexual dysfunction
+urologic_endocrine_condition,prolactin increased,INDI,endocrine disease associated with sexual dysfunction
+urologic_endocrine_condition,hypothyroidism,INDI,endocrine disease associated with sexual dysfunction
+urologic_endocrine_condition,hyperthyroidism,INDI,endocrine disease associated with sexual dysfunction
+urologic_endocrine_condition,thyroid disorder,INDI,endocrine disease associated with sexual dysfunction
+urologic_endocrine_condition,pituitary disorder,INDI,endocrine disease associated with sexual dysfunction
+urologic_endocrine_condition,benign prostatic hyperplasia,INDI,urologic disease associated with sexual dysfunction or drug-channeling
+urologic_endocrine_condition,prostatic hyperplasia,INDI,urologic disease associated with sexual dysfunction or drug-channeling
+urologic_endocrine_condition,prostate cancer,INDI,urologic/endocrine disease associated with sexual dysfunction or treatment confounding
+urologic_endocrine_condition,prostatic cancer,INDI,urologic/endocrine disease associated with sexual dysfunction or treatment confounding
+urologic_endocrine_condition,prostatitis,INDI,urologic disease associated with sexual dysfunction
+urologic_endocrine_condition,lower urinary tract symptoms,INDI,urologic disease associated with sexual dysfunction or drug-channeling
+urologic_endocrine_condition,erectile dysfunction,INDI,baseline erectile dysfunction if coded as an indication rather than outcome
+urologic_endocrine_condition,impotence,INDI,baseline erectile dysfunction if coded as an indication rather than outcome
+urologic_endocrine_condition,sexual dysfunction,INDI,baseline sexual dysfunction if coded as an indication rather than outcome
+pain_condition,neuropathic pain,INDI,non-MDD SNRI indication and possible confounder
+pain_condition,fibromyalgia,INDI,non-MDD SNRI indication and possible confounder
+pain_condition,chronic pain,INDI,non-MDD indication and possible confounder
+pain_condition,back pain,INDI,non-MDD indication and possible confounder
+pain_condition,diabetic neuropathy,INDI,non-MDD SNRI indication and endocrine confounder
+smoking_cessation,smoking cessation,INDI,non-MDD bupropion indication
+smoking_cessation,tobacco user,INDI,non-MDD bupropion indication

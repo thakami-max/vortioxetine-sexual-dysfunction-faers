@@ -1,0 +1,95 @@
+group,term,note
+antipsychotic,aripiprazole,antipsychotic or adjunctive antipsychotic
+antipsychotic,brexpiprazole,antipsychotic or adjunctive antipsychotic
+antipsychotic,cariprazine,antipsychotic
+antipsychotic,risperidone,prolactin-associated antipsychotic
+antipsychotic,paliperidone,prolactin-associated antipsychotic
+antipsychotic,olanzapine,antipsychotic
+antipsychotic,quetiapine,antipsychotic
+antipsychotic,ziprasidone,antipsychotic
+antipsychotic,lurasidone,antipsychotic
+antipsychotic,clozapine,antipsychotic
+antipsychotic,haloperidol,antipsychotic
+antipsychotic,chlorpromazine,antipsychotic
+antipsychotic,fluphenazine,antipsychotic
+antipsychotic,perphenazine,antipsychotic
+antipsychotic,trifluoperazine,antipsychotic
+antipsychotic,thioridazine,antipsychotic
+antipsychotic,asenapine,antipsychotic
+antipsychotic,iloperidone,antipsychotic
+antipsychotic,amisulpride,antipsychotic
+antipsychotic,sulpiride,antipsychotic
+antipsychotic,loxapine,antipsychotic
+antipsychotic,zuclopenthixol,antipsychotic
+antipsychotic,flupentixol,antipsychotic
+five_ari_alpha_blocker,finasteride,5-alpha-reductase inhibitor
+five_ari_alpha_blocker,dutasteride,5-alpha-reductase inhibitor
+five_ari_alpha_blocker,tamsulosin,alpha-1 blocker associated with ejaculatory dysfunction
+five_ari_alpha_blocker,alfuzosin,alpha-1 blocker
+five_ari_alpha_blocker,silodosin,alpha-1 blocker associated with ejaculatory dysfunction
+five_ari_alpha_blocker,doxazosin,alpha-1 blocker
+five_ari_alpha_blocker,terazosin,alpha-1 blocker
+opioid,morphine,opioid
+opioid,oxycodone,opioid
+opioid,hydrocodone,opioid
+opioid,hydromorphone,opioid
+opioid,oxymorphone,opioid
+opioid,fentanyl,opioid
+opioid,sufentanil,opioid
+opioid,remifentanil,opioid
+opioid,methadone,opioid
+opioid,buprenorphine,opioid
+opioid,tramadol,opioid
+opioid,tapentadol,opioid
+opioid,codeine,opioid
+opioid,meperidine,opioid
+opioid,pethidine,opioid
+opioid,nalbuphine,opioid
+hormonal_therapy,testosterone,androgen/testosterone therapy
+hormonal_therapy,methyltestosterone,androgen/testosterone therapy
+hormonal_therapy,estradiol,estrogen therapy
+hormonal_therapy,oestradiol,estrogen therapy
+hormonal_therapy,estrogen,estrogen therapy
+hormonal_therapy,estrogens,estrogen therapy
+hormonal_therapy,oestrogen,estrogen therapy
+hormonal_therapy,oestrogens,estrogen therapy
+hormonal_therapy,ethinyl estradiol,hormonal contraceptive or hormone therapy
+hormonal_therapy,ethinylestradiol,hormonal contraceptive or hormone therapy
+hormonal_therapy,progesterone,progestogen therapy
+hormonal_therapy,medroxyprogesterone,progestogen therapy
+hormonal_therapy,levonorgestrel,hormonal contraceptive
+hormonal_therapy,norethindrone,hormonal contraceptive
+hormonal_therapy,norethisterone,hormonal contraceptive
+hormonal_therapy,drospirenone,hormonal contraceptive
+hormonal_therapy,desogestrel,hormonal contraceptive
+hormonal_therapy,etonogestrel,hormonal contraceptive
+hormonal_therapy,cyproterone,antiandrogen/hormonal therapy
+hormonal_therapy,bicalutamide,antiandrogen therapy
+hormonal_therapy,flutamide,antiandrogen therapy
+hormonal_therapy,enzalutamide,antiandrogen therapy
+hormonal_therapy,abiraterone,antiandrogen/prostate cancer therapy
+hormonal_therapy,leuprolide,gnrh agonist/antagonist
+hormonal_therapy,leuprorelin,gnrh agonist/antagonist
+hormonal_therapy,goserelin,gnrh agonist/antagonist
+hormonal_therapy,triptorelin,gnrh agonist/antagonist
+hormonal_therapy,degarelix,gnrh antagonist
+pde5_or_ed_treatment,sildenafil,PDE5 inhibitor / erectile dysfunction therapy
+pde5_or_ed_treatment,tadalafil,PDE5 inhibitor / erectile dysfunction therapy
+pde5_or_ed_treatment,vardenafil,PDE5 inhibitor / erectile dysfunction therapy
+pde5_or_ed_treatment,avanafil,PDE5 inhibitor / erectile dysfunction therapy
+pde5_or_ed_treatment,alprostadil,erectile dysfunction therapy
+mood_stabilizer,lithium,mood stabilizer
+mood_stabilizer,valproate,mood stabilizer
+mood_stabilizer,divalproex,mood stabilizer
+mood_stabilizer,lamotrigine,mood stabilizer
+mood_stabilizer,carbamazepine,mood stabilizer
+mood_stabilizer,oxcarbazepine,mood stabilizer
+mood_stabilizer,topiramate,mood stabilizer / anticonvulsant
+benzodiazepine,alprazolam,benzodiazepine
+benzodiazepine,clonazepam,benzodiazepine
+benzodiazepine,diazepam,benzodiazepine
+benzodiazepine,lorazepam,benzodiazepine
+benzodiazepine,temazepam,benzodiazepine
+benzodiazepine,midazolam,benzodiazepine
+benzodiazepine,oxazepam,benzodiazepine
+benzodiazepine,chlordiazepoxide,benzodiazepine
