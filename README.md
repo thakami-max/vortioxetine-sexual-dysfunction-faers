@@ -77,7 +77,7 @@ scripts/faers_v2_print_confounder_results.py
 
 ## Supplementary material
 
-The folder `supplementary_material/` contains the ordered Supplementary Files S1-S14 used for submission:
+The folder `supplementary_material/` contains the ordered Supplementary Files S1-S15 used for submission:
 
 - S1 selected comparator drug dictionary
 - S2 depression-indication dictionary
@@ -93,6 +93,7 @@ The folder `supplementary_material/` contains the ordered Supplementary Files S1
 - S12 confounder-exclusion 2 x 2 tables
 - S13 stratified analyses for the primary vortioxetine-versus-escitalopram comparison
 - S14 figure source files
+- S15: time-window and calendar-period sensitivity analyses for potential launch-period or Weber-type reporting dynamics.
 
 ## Interpretation note
 
