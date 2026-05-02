@@ -1,0 +1,8 @@
+comparator,a_index_with_SD,n_index,c_comparator_with_SD,n_comparator,ror,ror025,ror975,direction
+escitalopram,158,4594,264,4107,0.51848,0.423724,0.634426,lower_with_vortioxetine
+paroxetine,158,4594,61,2611,1.488936,1.10365,2.008725,higher_with_vortioxetine
+sertraline,158,4594,440,9079,0.699321,0.581004,0.841732,lower_with_vortioxetine
+duloxetine,158,4594,54,3099,2.008441,1.469581,2.744888,higher_with_vortioxetine
+venlafaxine,158,4594,191,6669,1.208017,0.975086,1.496592,no_clear_difference
+bupropion,158,4594,56,4608,2.895208,2.128563,3.937976,higher_with_vortioxetine
+mirtazapine,158,4594,34,2612,2.700658,1.858531,3.924364,higher_with_vortioxetine

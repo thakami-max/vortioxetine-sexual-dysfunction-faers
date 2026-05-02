@@ -1,0 +1,3 @@
+comparator,a_index_with_SD,n_index,c_comparator_with_SD,n_comparator,ror,ror025,ror975,direction
+pooled_ssri,158,4594,1142,22477,0.665414,0.561678,0.78831,lower_with_vortioxetine
+pooled_snri,158,4594,245,9768,1.384437,1.129935,1.696263,higher_with_vortioxetine

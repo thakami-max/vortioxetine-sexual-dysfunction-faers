@@ -1,0 +1,4 @@
+calendar_period,a_index_with_SD,n_index,c_comparator_with_SD,n_comparator,ror,ror025,ror975,direction
+2014Q1-2017Q4,74,3383,39,1414,0.788448,0.532278,1.167905,no_clear_difference
+2018Q1-2021Q4,66,2458,106,2125,0.525549,0.384315,0.718685,lower_with_vortioxetine
+2022Q1-2025Q4,67,1318,144,1578,0.53334,0.395263,0.719651,lower_with_vortioxetine
