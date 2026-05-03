@@ -9,7 +9,7 @@ version: "1.0.2"
 date-released: "2026-03-31"
 license: "MIT"
 url: "url: "https://github.com/thakami-max/vortioxetine-sexual-dysfunction-faers"
-repository-code: "https://github.com/INSERT_USERNAME/vortioxetine-sexual-dysfunction-faers"
+repository-code: "https://github.com/thakami-max/vortioxetine-sexual-dysfunction-faers"
 abstract: "Scripts, configuration dictionaries, analysis commands, reproducibility materials, and summary outputs for a FAERS/AEMS active-comparator case/non-case disproportionality analysis of sexual dysfunction reports associated with vortioxetine and selected antidepressant comparators."
 keywords:
   - FAERS
